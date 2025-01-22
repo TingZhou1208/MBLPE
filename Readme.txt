@@ -1,1 +1,1 @@
-We publish the source code of the proposed algorithm when the manuscript is accepted.
+We publish the source code of MBLPE when the manuscript is accepted.
